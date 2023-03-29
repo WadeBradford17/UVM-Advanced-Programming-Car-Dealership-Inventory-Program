@@ -1,5 +1,5 @@
 # Harry Sharman, Wade Bradford - Open Ended Project
-# Car Dealership Inventory Program
+# C++ Car Dealership Inventory Program
 In this Module 2 Open Ended Project, Harry and Wade created a C++ main program and C++ testing program for multiple classes. The parent class of car, and the child classes of Truck, SUV, Convertible, and offroadVehicle.
 # Car Class
 The car class is designed with the private fields of year, make, model, price, and mileage. Each field has the corresponding getters and setters.
